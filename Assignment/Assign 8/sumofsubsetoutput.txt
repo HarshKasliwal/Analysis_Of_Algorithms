@@ -1,0 +1,22 @@
+Enter total sum required :  30
+Enter no of elements in subset :  6
+Enter element 1 :  5
+Enter element 2 :  10
+Enter element 3 :  12
+Enter element 4 :  13
+Enter element 5 :  15
+Enter element 6 :  18
+
+
+Solution 1 : { 1   1   0   0   1   0  }
+Subset 1 : { 5  10  15 }
+------------------------------------------
+
+Solution 2 : { 1   0   1   1   0   0  }
+Subset 2 : { 5  12  13 }
+------------------------------------------
+
+Solution 3 : { 0   0   1   0   0   1  }
+Subset 3 : { 12  18 }
+------------------------------------------
+ No of Nodes (call to sum ofsubset procedure)  : 20
